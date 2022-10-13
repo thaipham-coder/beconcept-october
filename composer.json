@@ -1,0 +1,8 @@
+{
+    "name": "acme/beconcept-theme",
+    "type": "october-theme",
+    "description": "Enter a meaningful description here!!!",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
